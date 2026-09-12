@@ -1,0 +1,6 @@
+{
+  "name": "VYROX",
+  "description": "A personal life-tracking dashboard combining Health, Finance, Habits, and Goals into one unified system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
